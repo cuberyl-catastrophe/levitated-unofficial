@@ -1,13 +1,13 @@
 {
   "minecraft": {
     "version": "1.12.2",
-    "modLoaders": [{ "id": "forge-14.23.5.2847", "primary": true }]
+    "modLoaders": [{ "id": "forge-14.23.5.2860", "primary": true }]
   },
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
-  "name": "Levitated",
-  "version": "1.5.3",
-  "author": "misterplus, EnergyCoco, FrostYang, Hao_cen",
+  "name": "Levitated Unofficial",
+  "version": "1.5.4",
+  "author": "CubeBotFan, misterplus, EnergyCoco, FrostYang, Hao_cen",
   "files": [
     { "projectID": 304024, "fileID": 2830114, "required": true },
     { "projectID": 315391, "fileID": 2678285, "required": true },
@@ -154,7 +154,8 @@
     { "projectID": 248020, "fileID": 2993739, "required": true },
     { "projectID": 250577, "fileID": 2648656, "required": true },
     { "projectID": 250363, "fileID": 2746011, "required": true },
-	{ "projectID": 312778, "fileID": 2688799, "required": true }
+	  { "projectID": 312778, "fileID": 2688799, "required": true },
+	  { "projectID": 896591, "fileID": 5187152, "required": true }
   ],
   "overrides": "overrides"
 }
