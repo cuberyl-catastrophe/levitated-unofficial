@@ -7,8 +7,8 @@ addParent("triumph:levitated/end/scanner")
 setShowToast(true)
 setAnnounceToChat(false)
 
-criteria = addCriteria("hasScannerQueue", "minecraft:inventory_changed")
+criteria = addCriteria("disabled", "minecraft:disabled")
 criteria.addItem(<scanner:scanner_queue>)
 
-visibleIf("triumph:levitated/end/root")
-setPos(672,95)
+setHidden(true)
+setPos(672,108)

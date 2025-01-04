@@ -11,4 +11,4 @@ criteria = addCriteria("hasBiomeScanner", "minecraft:inventory_changed")
 criteria.addItem(<scanner:biome_scanner_ultimate>)
 
 visibleIf("triumph:levitated/end/root")
-setPos(672,68)
+setPos(672,81)

@@ -37,6 +37,7 @@ import scripts.ct.Function;
 <deepmoblearning:trial_key>.addTooltip(format.yellow(game.localize("tooltips.levitated.key")));
 <minecraft:nether_brick>.addTooltip(format.yellow(game.localize("tooltips.levitated.blaze")));
 <chisel:lavastone>.addTooltip(format.yellow(game.localize("tooltips.levitated.wither_skeleton")));
+<scanner:scanner_queue>.addTooltip(format.darkRed(game.localize("tooltips.levitated_unofficial.scanner_queue")));
 
 addDescription(<contenttweaker:mana_paper>, game.localize("description.levitated.mana_paper"));
 addDescription([<contenttweaker:end_iron_chunk>, <tconstruct:firewood:1>], game.localize("description.levitated.end_iron_chunk"));
