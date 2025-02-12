@@ -7,7 +7,7 @@
   "manifestVersion": 1,
   "name": "Levitated Unofficial",
   "version": "1.5.4",
-  "author": "CubeBotFan, misterplus, EnergyCoco, FrostYang, Hao_cen",
+  "author": "misterplus, EnergyCoco, FrostYang, Hao_cen",
   "files": [
     { "projectID": 304024, "fileID": 2830114, "required": true },
     { "projectID": 315391, "fileID": 2678285, "required": true },
@@ -159,7 +159,7 @@
 	  { "projectID": 233071, "fileID": 2562139, "required": true },
 	  { "projectID": 616190, "fileID": 4630499, "required": true },
 	  { "projectID": 455807, "fileID": 3265260, "required": true },
-	  { "projectID": 622862, "fileID": 6035583, "required": true }
+	  { "projectID": 622862, "fileID": 6121647, "required": true }
   ],
   "overrides": "overrides"
 }
