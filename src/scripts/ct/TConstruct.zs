@@ -28,6 +28,7 @@ Melting.removeRecipe(<liquid:copper>, <techreborn:cable>);
 Melting.removeRecipe(<liquid:tin>, <techreborn:cable:1>);
 Melting.removeRecipe(<liquid:gold>, <techreborn:cable:2>);
 Melting.removeRecipe(<liquid:iron>, <ironchest:iron_chest>);
+Melting.removeRecipe(<liquid:iron>, <ironchest:wood_iron_chest_upgrade>);
 
 //Force use of the induction smelter to smelt blends into ingots
 Melting.removeRecipe(<liquid:lumium>, <thermalfoundation:material:102>);
