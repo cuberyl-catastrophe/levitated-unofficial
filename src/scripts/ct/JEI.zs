@@ -143,3 +143,10 @@ hideCategory("ie.alloysmelter");
 //Nuclear
 hide(<liquid:nuclear>);
 hide(<forge:bucketfilled>.withTag({FluidName: "nuclear", Amount: 1000}));
+
+// AE2uel pattern expansion card
+hide(<appliedenergistics2:material:58>)
+// AE2uel quantum link card
+hide(<appliedenergistics2:material:59>)
+// AE2uel magnet card
+hide(<appliedenergistics2:material:60>)
