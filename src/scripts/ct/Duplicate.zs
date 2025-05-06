@@ -136,10 +136,18 @@ Squeezer.addRecipe(<netherendingores:ore_end_vanilla:0>, <minecraft:coal:0> * 4,
 Squeezer.addRecipe(<netherendingores:ore_end_vanilla:6>, <minecraft:redstone> * 8, 1.0, <minecraft:redstone> * 2, 0.5, <minecraft:redstone> * 2, 0.5);
 Squeezer.addRecipe(<netherendingores:ore_end_vanilla:5>, <minecraft:dye:4> * 8, 1.0, <minecraft:dye:4> * 2, 0.5, <minecraft:dye:4> * 2, 0.5);
 Squeezer.addRecipe(<netherendingores:ore_end_vanilla:1>, <minecraft:diamond>, 1.0, <minecraft:diamond>, 0.75);
+Squeezer.addRecipe(<appliedenergistics2:quartz_ore>, <appliedenergistics2:material:0> * 2, 1.0, <appliedenergistics2:material:0>, 0.5);
+Squeezer.addRecipe(<appliedenergistics2:charged_quartz_ore>, <appliedenergistics2:material:1> * 2, 1.0, <appliedenergistics2:material:1>, 0.5);
+Squeezer.addRecipe(<netherendingores:ore_nether_modded_1:9>, <appliedenergistics2:material:0> * 2, 1.0, <appliedenergistics2:material:0>, 0.5);
+Squeezer.addRecipe(<netherendingores:ore_nether_modded_1:10>, <appliedenergistics2:material:1> * 2, 1.0, <appliedenergistics2:material:1>, 0.5);
 MechanicalSqueezer.addRecipe(<netherendingores:ore_end_vanilla:0>, <minecraft:coal:0> * 6, 1.0, <minecraft:coal:0>, 0.5);
 MechanicalSqueezer.addRecipe(<netherendingores:ore_end_vanilla:6>, <minecraft:redstone> * 12, 1.0, <minecraft:redstone> * 2, 0.5);
 MechanicalSqueezer.addRecipe(<netherendingores:ore_end_vanilla:5>, <minecraft:dye:4> * 12, 1.0, <minecraft:dye:4> * 2, 0.5);
 MechanicalSqueezer.addRecipe(<netherendingores:ore_end_vanilla:1>, <minecraft:diamond> * 2, 1.0, <minecraft:diamond>, 0.50);
+MechanicalSqueezer.addRecipe(<appliedenergistics2:quartz_ore>, <appliedenergistics2:material:0> * 3, 1.0, <appliedenergistics2:material:0>, 0.5);
+MechanicalSqueezer.addRecipe(<appliedenergistics2:charged_quartz_ore>, <appliedenergistics2:material:1> * 3, 1.0, <appliedenergistics2:material:1>, 0.5);
+MechanicalSqueezer.addRecipe(<netherendingores:ore_nether_modded_1:9>, <appliedenergistics2:material:0> * 3, 1.0, <appliedenergistics2:material:0>, 0.5);
+MechanicalSqueezer.addRecipe(<netherendingores:ore_nether_modded_1:10>, <appliedenergistics2:material:1> * 3, 1.0, <appliedenergistics2:material:1>, 0.5);
 Function.rodding(<ore:ingotAluminum>, <immersiveengineering:material:3>);
 Function.rodding(<ore:ingotIron>, <immersiveengineering:material:1>);
 Function.rodding(<ore:ingotSteel>, <immersiveengineering:material:2>);
