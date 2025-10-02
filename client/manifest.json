@@ -160,7 +160,8 @@
 	  { "projectID": 233071, "fileID": 2562139, "required": true },
 	  { "projectID": 616190, "fileID": 4630499, "required": true },
 	  { "projectID": 455807, "fileID": 3265260, "required": true },
-	  { "projectID": 622862, "fileID": 6121647, "required": true }
+	  { "projectID": 622862, "fileID": 6121647, "required": true },
+    { "projectID": 242223, "fileID": 3524685, "required": true }
   ],
   "overrides": "overrides"
 }
